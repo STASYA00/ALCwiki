@@ -618,7 +618,7 @@ iframe.pdf {
 
   padding: 10%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
   font-size: 14pt;
@@ -626,6 +626,9 @@ iframe.pdf {
   font-family: var(--headerFont);
 
   border-radius: 2px;
+  column-gap: 3%;
+  flex-wrap: nowrap;
+  word-wrap: break-word;
 
 }
 
@@ -649,13 +652,17 @@ iframe.pdf {
   border-radius: 2px;
   padding: 10%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
   font-size: 10pt;
   font-weight: normal;
   font-family: var(--bodyFont);
   border-radius: 2px;
+
+  column-gap: 3%;
+  flex-wrap: nowrap;
+  word-wrap: break-word;
 
 }
 
@@ -667,4 +674,9 @@ iframe.pdf {
   border-width: 3px;
   background-color: #EFEFEF33;
   cursor: pointer;
+}
+
+.subsection>div {
+  word-wrap: break-word;
+  white-space: pre-wrap;
 }
