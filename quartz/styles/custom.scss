@@ -1,12 +1,12 @@
-// @use "./base.scss";
+@use "./base.scss";
 
 // put your custom CSS here!
 
 .main{
     display: grid;
     --grid-col: minmax(100px, 1fr);
-    --color: #EFEFEF;
-    --secondary: #212121;
+    --col: #EFEFEF;
+    --secondary-col: #212121;
     grid-template-columns: repeat(auto-fill, var(--grid-col));
     
     grid-gap: 5px;
@@ -17,7 +17,7 @@
 
     align-items: flex-start;
     /* height: 80%; */
-    background-color: var(--secondary);
+    background-color: var(--secondary-col);
     margin: 10px;
   }
 
@@ -25,7 +25,7 @@
     grid-column: span 2;
     grid-row: span 2;
     aspect-ratio: 1;
-    border: #FFFFFF solid 3px;
+    border: var(--col) solid 3px;
 
     padding: 10%;
     display: flex;
@@ -43,8 +43,8 @@
 .section:hover{
     background-color: #efefefdf;
     box-sizing: border-box;
-    border: #FFFFFF solid 0px;
-    color: var(--secondary);
+    border: var(--col) solid 0px;
+    color: var(--secondary-col);
     
   }
 
@@ -54,9 +54,9 @@
     /* height: 100%;
     width: 100%; */
     aspect-ratio: 1;
-    border: #FFFFFF solid 1px;
+    border: var(--col) solid 1px;
     background-color: #EFEFEF11;
-    border: 1px solid #fff;
+    border: 1px solid var(--col);
     border-radius: 2px;
     padding: 10%;
     display: flex;
@@ -74,7 +74,7 @@
     // background-color: var(--main-bg-color);
     box-sizing: border-box;
     border-style: solid;
-    border-color: var(--color);
+    border-color: var(--col);
     border-width: 3px;
     background-color: #EFEFEF33;
     cursor: pointer;
