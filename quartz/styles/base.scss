@@ -1,7 +1,7 @@
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
-@use "./custom.scss";
+
 
 html {
   scroll-behavior: smooth;
@@ -587,4 +587,84 @@ iframe.pdf {
   height: 100%;
   width: 100%;
   border-radius: 5px;
+}
+
+
+
+.main{
+  display: grid;
+  --grid-col: minmax(100px, 1fr);
+  --col: #EFEFEF;
+  --secondary-col: #212121;
+  grid-template-columns: repeat(auto-fill, var(--grid-col));
+  
+  grid-gap: 5px;
+  
+  flex-wrap: wrap;
+  flex-basis: auto;
+  flex-direction: row;
+
+  align-items: flex-start;
+  /* height: 80%; */
+  background-color: var(--secondary-col);
+  margin: 10px;
+}
+
+.section{
+  grid-column: span 2;
+  grid-row: span 2;
+  aspect-ratio: 1;
+  border: var(--col) solid 3px;
+
+  padding: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: var(--headerFont);
+
+  border-radius: 2px;
+
+}
+
+.section:hover{
+  background-color: #efefefdf;
+  box-sizing: border-box;
+  border: var(--col) solid 0px;
+  color: var(--secondary-col);
+  
+}
+
+.subsection{
+  /* width: var(--main-module-dim) ;
+  height: var(--main-module-dim) ; */
+  /* height: 100%;
+  width: 100%; */
+  aspect-ratio: 1;
+  border: var(--col) solid 1px;
+  background-color: #EFEFEF11;
+  border: 1px solid var(--col);
+  border-radius: 2px;
+  padding: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 10pt;
+  font-weight: normal;
+  font-family: var(--bodyFont);
+  border-radius: 2px;
+
+}
+
+.subsection:hover{
+  // background-color: var(--main-bg-color);
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: var(--col);
+  border-width: 3px;
+  background-color: #EFEFEF33;
+  cursor: pointer;
 }
