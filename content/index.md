@@ -1,5 +1,27 @@
 ---
 title: Architects Learning Coding
+draft: false
+description: Automation in AEC wiki. Collection of materials relevant for solving AEC (architecture, construction, engineering, urban design and planning) problems with programming.
+aliases: home
+tags:
+  - dataset
+  - tools
+  - frameworks
+  - wiki
+  - automation
+  - design
+  - programming
+  - python
+  - API
+  - digitalization
+  - optimization
+  - BIM
+  - AEC
+  - Architecture
+  - Machine Learning
+  - Engineering
+  - Urban
+  - Construction
 ---
 
 Welcome to the __ALCwiki__! Have you been planning to learn coding but don't know where to start? This is a wiki with the first terms necessary to get you up and __running__! 🏃🏼‍♀️

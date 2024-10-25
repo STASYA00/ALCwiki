@@ -1,3 +1,19 @@
+---
+title: 🔢 Datasets
+draft: false
+description: Collection of datasets relevant for AEC (architecture, construction, engineering, urban design and planning) problems
+permalink: /datasets
+aliases: datasets
+tags:
+  - dataset
+  - AEC
+  - Architecture
+  - Machine Learning
+  - Engineering
+  - Urban
+  - Construction
+---
+
 Getting started it's easy to get lost in different data sources. The following datasets are usually useful and applicable for solving #AEC problems or making a POC:
 
 #wip 

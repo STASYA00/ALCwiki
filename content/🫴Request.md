@@ -1,3 +1,27 @@
+---
+title: Request
+draft: false
+description: What is a request?
+aliases: request
+tags:
+  - dataset
+  - tools
+  - frameworks
+  - wiki
+  - request
+  - automation
+  - design
+  - programming
+  - python
+  - API
+  - AEC
+  - Architecture
+  - Machine Learning
+  - Engineering
+  - Urban
+  - Construction
+---
+
 As implied by the name, a [request](https://developer.mozilla.org/en-US/docs/Web/API/Request) is a standardized message sent to an [[Endpoint]] _requesting_ to obtain some resources. An example could be a request to obtain all the movies' names from IMDB database.
 
 🍏🍎🍊 There are multiple types of requests. Some of them are:
