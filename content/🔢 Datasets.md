@@ -4,28 +4,28 @@ Getting started it's easy to get lost in different data sources. The following d
 
 <div class="main">
 	<div class="section" >🌏 Maps</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://openstreetmap.org';}">🌏Openstreetmap</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://developers.google.com/maps';}">🌏 Google Maps</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://earthengine.google.com/';}">🌏 Google Earth Engine</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://www.mapbox.com/';}">🌏 Mapbox</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://landsat.gsfc.nasa.gov/data/';}">🌏 Landsat</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://sites.research.google/gr/open-buildings/';}">🌏 Open Buildings</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://www.planet.com/';}">🌏 Planet Labs</div>
+	<div class="subsection"   onclick=" {window.location.href='https://openstreetmap.org';}">🌏Openstreetmap</div>
+	<div class="subsection"   onclick=" {window.location.href='https://developers.google.com/maps';}">🌏 Google Maps</div>
+	<div class="subsection"   onclick=" {window.location.href='https://earthengine.google.com/';}">🌏 Google Earth Engine</div>
+	<div class="subsection"   onclick=" {window.location.href='https://www.mapbox.com/';}">🌏 Mapbox</div>
+	<div class="subsection"   onclick=" {window.location.href='https://landsat.gsfc.nasa.gov/data/';}">🌏 Landsat</div>
+	<div class="subsection"   onclick=" {window.location.href='https://sites.research.google/gr/open-buildings/';}">🌏 Open Buildings</div>
+	<div class="subsection"   onclick=" {window.location.href='https://www.planet.com/';}">🌏 Planet Labs</div>
 	<div class="section" style="width:200px; height:200px; border:#EFEFEF solid 3px; grid-col-end: span 2; grid-row-end: span 2">🥗 General</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://kaggle.com';}">🥗Kaggle</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://huggingface.co/datasets';}">🥗 HuggingFace</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://universe.roboflow.com/';}">🥗 Roboflow</div>
+	<div class="subsection"   onclick=" {window.location.href='https://kaggle.com';}">🥗Kaggle</div>
+	<div class="subsection"   onclick=" {window.location.href='https://huggingface.co/datasets';}">🥗 HuggingFace</div>
+	<div class="subsection"   onclick=" {window.location.href='https://universe.roboflow.com/';}">🥗 Roboflow</div>
 	<div class="section"  >🌤🌎 Planet</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://github.com/smousavi05/STEAD';}">🌤🌎 Earthquakes</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://openweathermap.org/api';}">🌤🌎 Meteo</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://developer.yr.no/';}">🌤🌎 Meteo and more</div>
+	<div class="subsection"   onclick=" {window.location.href='https://github.com/smousavi05/STEAD';}">🌤🌎 Earthquakes</div>
+	<div class="subsection"   onclick=" {window.location.href='https://openweathermap.org/api';}">🌤🌎 Meteo</div>
+	<div class="subsection"   onclick=" {window.location.href='https://developer.yr.no/';}">🌤🌎 Meteo and more</div>
 	<div class="section"  >💰 Economic activity</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://www.yelp.com/dataset';}">💰 Yelp</div>
+	<div class="subsection"   onclick=" {window.location.href='https://www.yelp.com/dataset';}">💰 Yelp</div>
 	<div class="section"  >🚲 Mobility</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://zenodo.org/records/10142719t';}">🚲YJMob100K</div>
-	<div class="subsection"   onclick=()=>{window.location.href='https://trynthink.github.io/buildingsdatasets/';}>🚲Strava</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://citibikenyc.com/system-data';}">🚲Bike Sharing NYC</div>
-	<div class="subsection"   onclick="()=>{window.location.href='https://trynthink.github.io/buildingsdatasets/';}">🚲Human Migration</div>
+	<div class="subsection"   onclick=" {window.location.href='https://zenodo.org/records/10142719t';}">🚲YJMob100K</div>
+	<div class="subsection"   onclick= {window.location.href='https://trynthink.github.io/buildingsdatasets/';}>🚲Strava</div>
+	<div class="subsection"   onclick=" {window.location.href='https://citibikenyc.com/system-data';}">🚲Bike Sharing NYC</div>
+	<div class="subsection"   onclick=" {window.location.href='https://trynthink.github.io/buildingsdatasets/';}">🚲Human Migration</div>
 	
 </div>
 
