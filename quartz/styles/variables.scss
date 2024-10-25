@@ -54,3 +54,13 @@ $desktopGrid: (
       "grid-sidebar-left grid-center grid-sidebar-right"\
       "grid-sidebar-left grid-footer grid-sidebar-right"',
 );
+
+$color: (
+  primary: "#EFEFEF",
+  secondary: "212121",
+);
+
+$module: (
+  min: "100px",
+  max: "300px",
+);

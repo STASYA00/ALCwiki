@@ -1,3 +1,81 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.main{
+    display: grid;
+    --grid-col: minmax(100px, 1fr);
+    grid-template-columns: repeat(auto-fill, var(--grid-col));
+    
+    grid-gap: 5px;
+    
+    flex-wrap: wrap;
+    flex-basis: auto;
+    flex-direction: row;
+
+    align-items: flex-start;
+    /* height: 80%; */
+    background-color: #{map-get($color, secondary)};;
+    margin: 10px;
+  }
+
+.section{
+    grid-column: span 2;
+    grid-row: span 2;
+    aspect-ratio: 1;
+    border: #FFFFFF solid 3px;
+
+    /* height: 100%;
+    width: 100%; */
+    /* width: calc(var(--main-module-dim) * 2);
+    height: calc(var(--main-module-dim) * 2); */
+    // background-color: var(--main-text-color);
+
+    /* background-color: var(--main-bg-color);
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: var(--main-text-color);
+    border-width: var(--main-stroke); */
+
+    border-radius: 2px;
+  
+}
+
+.section:hover{
+    background-color: var(--color);
+    box-sizing: border-box;
+    border: #FFFFFF solid 5px;
+    
+    transform: rotateX(180deg);
+  }
+
+.subsection{
+    /* width: var(--main-module-dim) ;
+    height: var(--main-module-dim) ; */
+    /* height: 100%;
+    width: 100%; */
+    aspect-ratio: 1;
+    opacity: 10;
+    background-color: var(--color);
+    border: #FFFFFF solid 1px;
+    /*
+    box-sizing: border-box;
+    border-style: solid;
+    
+    border-color: var(--main-text-color);
+    border-width: 4px; */
+
+    border-radius: 2px;
+  
+}
+
+.subsection:hover{
+    // background-color: var(--main-bg-color);
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 1px;
+    opacity: 30;
+    
+    transform: rotateX(180deg);
+  }
