@@ -1,0 +1,125 @@
+Getting started it's easy to get lost in different data sources. The following datasets are usually useful and applicable for solving #AEC problems or making a POC:
+
+#wip 
+
+<div class="main" style="width:400px; height:auto; display:grid; grid-template-columns:1fr 1fr 1fr 1fr 1fr; grid-template-rows:1fr 1fr;">
+	<div class="section" style="width:200px; height:200px; border:#EFEFEF solid 3px; grid-col-end: span 2; grid-row-end: span 2">🌏 Maps</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://openstreetmap.org';}">🌏Openstreetmap</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://developers.google.com/maps';}">🌏 Google Maps</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://earthengine.google.com/';}">🌏 Google Earth Engine</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://www.mapbox.com/';}">🌏 Mapbox</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://landsat.gsfc.nasa.gov/data/';}">🌏 Landsat</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://sites.research.google/gr/open-buildings/';}">🌏 Open Buildings</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://www.planet.com/';}">🌏 Planet Labs</div>
+	<div class="section" style="width:200px; height:200px; border:#EFEFEF solid 3px; grid-col-end: span 2; grid-row-end: span 2">🥗 General</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://kaggle.com';}">🥗Kaggle</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://huggingface.co/datasets';}">🥗 HuggingFace</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://universe.roboflow.com/';}">🥗 Roboflow</div>
+	<div class="section" style="width:200px; height:200px; border:#EFEFEF solid 3px; grid-col-end: span 2; grid-row-end: span 2;">🌤🌎 Planet</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://github.com/smousavi05/STEAD';}">🌤🌎 Earthquakes</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://openweathermap.org/api';}">🌤🌎 Meteo</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://developer.yr.no/';}">🌤🌎 Meteo and more</div>
+	<div class="section" style="width:200px; height:200px; border:#EFEFEF solid 3px; grid-col-end: span 2; grid-row-end: span 2;">💰 Economic activity</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://www.yelp.com/dataset';}">💰 Yelp</div>
+	<div class="section" style="width:200px; height:200px; border:#EFEFEF solid 3px; grid-col-end: span 2; grid-row-end: span 2;">🚲 Mobility</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://zenodo.org/records/10142719t';}">🚲YJMob100K</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://trynthink.github.io/buildingsdatasets/';}">🚲Strava</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://citibikenyc.com/system-data';}">🚲Bike Sharing NYC</div>
+	<div class="subsection" style="width:100px; height:100px; border:#EFEFEF solid 1px" onclick="()=>{window.location.href='https://trynthink.github.io/buildingsdatasets/';}">🚲Human Migration</div>
+	
+	<script>
+		let main = document.getElementsByClassName("main")[0];
+		let elements = [
+		["Openstreetmap", "https://openstreetmap.org"],
+		["Google Maps", "https://developers.google.com/maps"],
+		["Google Earth Engine", "https://earthengine.google.com/"],
+		["Mapbox", "https://www.mapbox.com/"],
+		];
+		elements.forEach(el=>{
+			let panel = document.createElement("div");
+		        panel.setAttribute('class', "subsection");
+		        panel.setAttribute('style', "width:100px; height:100px; background-color:#00FF00;");
+		        panel.innerHTML = el[0];
+		        main.appendChild(panel);
+		
+		})
+
+	</script>
+	
+</div>
+
+### 🥗 General
+
+* [Kaggle](https://kaggle.com) #mixed
+* [HuggingFace](https://huggingface.co/datasets) #mixed
+* [Roboflow](https://universe.roboflow.com/)
+
+### 🌏 Maps
+
+* [Openstreetmap](https://openstreetmap.org) #geo #tabular
+* [Google Maps](https://developers.google.com/maps) #geo #tabular #image 
+* [Google Earth Engine](https://earthengine.google.com/) #geo #tabular #image 
+* [Mapbox](https://www.mapbox.com/) #geo #tabular 
+* [Landsat](https://landsat.gsfc.nasa.gov/data/) #image 
+* [Planet Labs](https://www.planet.com/) #image
+* [Open Buildings](https://sites.research.google/gr/open-buildings/) #geo  - building footprints for developing countries
+### 🚲 Mobility
+
+* [YJMob100K](https://zenodo.org/records/10142719t) #geo #tabular
+* [Strava](https://developers.strava.com/) #geo #tabular
+* [Bike Sharing NYC](https://citibikenyc.com/system-data) #geo #tabular
+* [Human Migration](https://migrationpolicycentre.eu/global-mobilities/dataset/) #tabular
+
+### 💰 Economic Activity
+
+* [Yelp](https://www.yelp.com/dataset) #tabular
+#### 🔫 💰Crime
+* [NYC Crime](https://data.cityofnewyork.us/Public-Safety/NYC-crime/qb7u-rbmr/about_data)
+* [LA Crime](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
+* [Chicago Crime](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data)
+
+### 🌤🌎 Planet
+
+* [Meteo](https://openweathermap.org/api) #tabular
+* [Meteo and more](https://developer.yr.no/) #tabular #radar
+* [Earthquakes](https://github.com/smousavi05/STEAD) #wave #tabular
+
+### 🏙 City appearance
+
+* [Cityscapes](https://www.cityscapes-dataset.com/) #image
+* [A2D2](https://www.a2d2.audi/a2d2/en.html) 
+* [Waymo](https://waymo.com/open/) #lidar #image
+* [nuScenes](https://www.nuscenes.org/) #image 
+* [Agroverse](https://www.argoverse.org/) - #lidar #image
+* [Apolloscape](https://apolloscape.auto/) #lidar #image
+* [CMP Facades](https://cmp.felk.cvut.cz/~tylecr1/facade/) #image 
+* [Google Landmarks](https://github.com/cvdfoundation/google-landmark) #image 
+* [Kitti-360](https://www.cvlibs.net/datasets/kitti-360/) #lidar #image 
+* [Google Street View](https://developers.google.com/maps/documentation/streetview/overview) #image 
+
+### 🏘 Interior layout
+
+* [MSD](https://github.com/caspervanengelenburg/msd) #json 
+* [HouseExpo](https://github.com/TeaganLi/HouseExpo) #json
+* [SUNCG](https://github.com/tinytangent/SUNCGtoolbox) #3d
+* [Zillow Indoor](https://github.com/zillow/zind) #3d 
+* [DoorDetect](https://github.com/MiguelARD/DoorDetect-Dataset) #image
+* [InteriorVerse](https://interiorverse.github.io/) #image #3d
+* [Rakuten](https://rit.rakuten.com/data_release/)  #image - wall position
+* [Robin](https://github.com/gesstalt/ROBIN/blob/master/README.md) #image 
+* [Structural floor plan](http://dag.cvc.uab.es/resources/floorplans/) #image 
+
+### 🔋 Performance
+
+* [Energy](https://trynthink.github.io/buildingsdatasets/)
+* [Environmental sound](https://github.com/karolpiczak/ESC-50)
+
+### 👁‍🗨 Computer vision : General
+
+* [COCO](https://cocodataset.org/) #image 
+* [ImageNet](http://www.image-net.org/) #image
+* [MPI](https://human-pose.mpi-inf.mpg.de/) #image
+* [3DPW](https://virtualhumans.mpi-inf.mpg.de/3DPW/)
+* [Coco Dense](http://densepose.org/)
+* [VGG human pose](https://www.robots.ox.ac.uk/~vgg/data/pose/)
+
