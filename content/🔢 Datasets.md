@@ -23,7 +23,7 @@ Getting started it's easy to get lost in different data sources. The following d
 	<div class="subsection"   onclick=" {window.location.href='https://www.yelp.com/dataset';}">💰 Yelp</div>
 	<div class="section"  >🚲 Mobility</div>
 	<div class="subsection"   onclick=" {window.location.href='https://zenodo.org/records/10142719t';}">🚲YJMob100K</div>
-	<div class="subsection"   onclick= {window.location.href='https://trynthink.github.io/buildingsdatasets/';}>🚲Strava</div>
+	<div class="subsection"   onclick="{window.location.href='https://trynthink.github.io/buildingsdatasets/';}">🚲Strava</div>
 	<div class="subsection"   onclick=" {window.location.href='https://citibikenyc.com/system-data';}">🚲Bike Sharing NYC</div>
 	<div class="subsection"   onclick=" {window.location.href='https://trynthink.github.io/buildingsdatasets/';}">🚲Human Migration</div>
 	
