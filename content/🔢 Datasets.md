@@ -27,25 +27,6 @@ Getting started it's easy to get lost in different data sources. The following d
 	<div class="subsection"   onclick="()=>{window.location.href='https://citibikenyc.com/system-data';}">🚲Bike Sharing NYC</div>
 	<div class="subsection"   onclick="()=>{window.location.href='https://trynthink.github.io/buildingsdatasets/';}">🚲Human Migration</div>
 	
-	<script>
-		let main = document.getElementsByClassName("main")[0];
-		let elements = [
-		["Openstreetmap", "https://openstreetmap.org"],
-		["Google Maps", "https://developers.google.com/maps"],
-		["Google Earth Engine", "https://earthengine.google.com/"],
-		["Mapbox", "https://www.mapbox.com/"],
-		];
-		elements.forEach(el=>{
-			let panel = document.createElement("div");
-		        panel.setAttribute('class', "subsection");
-		        panel.setAttribute('style', "width:100px; height:100px; background-color:#00FF00;");
-		        panel.innerHTML = el[0];
-		        main.appendChild(panel);
-		
-		})
-
-	</script>
-	
 </div>
 
 ### 🥗 General
