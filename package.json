@@ -1,5 +1,5 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "@stasya00/alcwiki",
   "description": "🚀 wiki for architects learning how to code",
   "private": true,
   "version": "1.0.0",
@@ -24,12 +24,17 @@
     "node": "20 || >=22"
   },
   "keywords": [
-    "site generator",
-    "ssg",
-    "digital-garden",
-    "markdown",
+    "AEC",
+    "programming",
+    "automation",
+    "machine learning",
+    "data",
+    "education",
     "blog",
-    "quartz"
+    "architecture",
+    "design",
+    "engineering",
+    "construction"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
