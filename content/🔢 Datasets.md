@@ -3,7 +3,7 @@ title: 🔢 Datasets
 draft: false
 description: Collection of datasets relevant for AEC (architecture, construction, engineering, urban design and planning) problems
 permalink: /datasets
-aliases: datasets
+aliases: datasets, Datasets
 tags:
   - dataset
   - AEC

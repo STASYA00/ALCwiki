@@ -3,9 +3,9 @@ title: City Appearance
 draft: false
 description: A collection of datasets related to the city environment. It implies streets, facades, visual perception of a city, urban design elements etc.
 aliases:
-  - data/city
-  - data/City
-  - data/City%20Appearance
+  - city
+  - City
+  - City%20Appearance
 ---
 
 A collection of datasets related to the city environment. It implies streets, facades, visual perception of a city, urban design elements etc.

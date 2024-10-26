@@ -2,7 +2,7 @@
 title: Planet
 draft: false
 description: A collection of datasets related to the behaviour of the planet. This section covers climate, meteo, natural disasters and other close aspects.
-aliases: data/planet, data/Planet
+aliases: planet, Planet
 ---
 
 A collection of #dataset s related to the behaviour of the planet. This section covers climate, meteo, natural disasters and other close aspects.

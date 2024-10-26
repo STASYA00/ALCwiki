@@ -2,8 +2,10 @@
 title: Performance
 draft: false
 description: A collection of datasets related to building performance.
-aliases: data/performance, data/Performance
+aliases: performance, Performance
 ---
+
+A collection of datasets related to building performance.
 
 <div class="main">
 	

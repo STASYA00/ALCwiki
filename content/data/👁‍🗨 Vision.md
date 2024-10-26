@@ -2,7 +2,7 @@
 title: Vision
 draft: false
 description: A collection of datasets related to computer vision in the wild that could be used for solving AEC problems.
-aliases: data/vision, data/Vision
+aliases: vision, Vision
 ---
 
 A collection of datasets related to computer #vision in the wild that could be used for solving #AEC problems.

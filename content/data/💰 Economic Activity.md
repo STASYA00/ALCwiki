@@ -2,7 +2,7 @@
 title: Economic Activity
 draft: false
 description: A collection of datasets related to urban eceonomic activity.
-aliases: data/economic, data/Economic, data/Economic%20Activity
+aliases: economic, Economic, Economic%20Activity
 ---
 
 A collection of datasets related to urban eceonomic activity.

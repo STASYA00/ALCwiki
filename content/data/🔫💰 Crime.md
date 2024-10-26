@@ -2,7 +2,7 @@
 title: Crime
 draft: false
 description: A collection of datasets related to urban crime.
-aliases: data/crime, data/crime
+aliases: crime, crime
 ---
 
 A collection of datasets related to #Urban crime.

@@ -2,7 +2,7 @@
 title: Interior
 draft: false
 description: A collection of datasets related to the building interior including structural details, apartment layouts, building plans, furniture, indoor photos
-aliases: data/interior, data/Interior
+aliases: interior, Interior
 ---
 
 A collection of #dataset s related to the building #interior including structural details, apartment layouts, building plans, furniture, indoor photos

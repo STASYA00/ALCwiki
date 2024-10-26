@@ -2,7 +2,7 @@
 title: Maps
 draft: false
 description: A collection of datasets related to maps including geospatial data as well as image data that could be applicable to urban planning and/or AEC problems.
-aliases: data/maps, data/Maps
+aliases: maps, Maps
 ---
 
 A collection of datasets related to #map s including #geo spatial data as well as #image data that could be applicable to #urban #planning and/or #AEC problems.

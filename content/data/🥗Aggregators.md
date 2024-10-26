@@ -2,7 +2,7 @@
 title: Aggregators
 draft: false
 description: A collection of dataset aggregators that could be useful for searching more specific datsets related to AEC problems.
-aliases: data/aggregators, data/Aggregators
+aliases: aggregators, Aggregators
 ---
 
 
