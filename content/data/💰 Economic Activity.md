@@ -4,6 +4,7 @@ draft: false
 description: A collection of datasets related to urban eceonomic activity.
 aliases: economic, Economic, Economic%20Activity
 ---
+to [[🔢 Datasets]]
 
 A collection of datasets related to urban eceonomic activity.
 

@@ -4,6 +4,7 @@ draft: false
 description: A collection of datasets related to the behaviour of the planet. This section covers climate, meteo, natural disasters and other close aspects.
 aliases: planet, Planet
 ---
+to [[🔢 Datasets]]
 
 A collection of #dataset s related to the behaviour of the planet. This section covers climate, meteo, natural disasters and other close aspects.
 

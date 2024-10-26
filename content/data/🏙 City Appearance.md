@@ -7,6 +7,7 @@ aliases:
   - City
   - City%20Appearance
 ---
+to [[🔢 Datasets]]
 
 A collection of datasets related to the city environment. It implies streets, facades, visual perception of a city, urban design elements etc.
 

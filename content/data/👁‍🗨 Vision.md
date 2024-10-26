@@ -4,6 +4,7 @@ draft: false
 description: A collection of datasets related to computer vision in the wild that could be used for solving AEC problems.
 aliases: vision, Vision
 ---
+to [[🔢 Datasets]]
 
 A collection of datasets related to computer #vision in the wild that could be used for solving #AEC problems.
 

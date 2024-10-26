@@ -4,6 +4,7 @@ draft: false
 description: A collection of datasets related to the building interior including structural details, apartment layouts, building plans, furniture, indoor photos
 aliases: interior, Interior
 ---
+to [[🔢 Datasets]]
 
 A collection of #dataset s related to the building #interior including structural details, apartment layouts, building plans, furniture, indoor photos
 

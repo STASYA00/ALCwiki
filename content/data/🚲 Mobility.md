@@ -4,6 +4,7 @@ draft: false
 description: A collection of datasets related to urban mobility. This section covers all means of transportation.
 aliases: mobility, Mobility
 ---
+to [[🔢 Datasets]]
 
 A collection of datasets related to #Urban #Mobility. This section covers all means of transportation.
 

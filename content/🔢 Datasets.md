@@ -263,3 +263,15 @@ Getting started it's easy to get lost in different data sources. The following d
 </div>
 
 
+🌲 **Dataset Tree**
+
+- [[🌏 Maps]]
+- [[🌤🌎 Planet]]
+- [[🏙 City Appearance]]
+- [[👁‍🗨 Vision]]
+- [[💰 Economic Activity]]
+- [[🔫💰 Crime]]
+- [[🔋 Performance]]
+- [[🚲 Mobility]]
+- [[🏘 Interior layout]]
+- [[🥗Aggregators]]

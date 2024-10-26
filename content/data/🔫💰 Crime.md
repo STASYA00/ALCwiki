@@ -4,6 +4,7 @@ draft: false
 description: A collection of datasets related to urban crime.
 aliases: crime, crime
 ---
+to [[🔢 Datasets]]
 
 A collection of datasets related to #Urban crime.
 
