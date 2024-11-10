@@ -10,13 +10,13 @@
    🎢 **Bonus:** create a curved line
 
 > [!NOTE]- Illustration
-   > ![[grasshopper/exercises/Louvers/illustrations/1_step.png]]
+> ![[grasshopper/exercises/Louvers/illustrations/1_step.png]]
    
  > [!NOTE]- 👀 Hint
-> _Hint: line can be composed of two points. Create them first, then join them into a line._
+ > _Hint: line can be composed of two points. Create them first, then join them into a line._
  
    > [!NOTE]- ⚙️Solution
-> ![[grasshopper/exercises/Louvers/illustrations/1_solution.png]]
+   > ![[grasshopper/exercises/Louvers/illustrations/1_solution.png]]
 
    
 2. Create the line that limits the louvers from the top. This line will be the upper bound of the louvers.
@@ -26,21 +26,20 @@
    > ![[grasshopper/exercises/Louvers/illustrations/2_step.png]]
    
  > [!NOTE]- 👀 Hint
-> _Hint: you can make a new line or move the base line to some distance._
-   ![[grasshopper/exercises/Louvers/illustrations/2_solution.png]]
-
-   > [!NOTE]- ⚙️Solution
+ >  _Hint: you can make a new line or move the base line to some distance._
+  
+> [!NOTE]- ⚙️Solution
 > ![[grasshopper/exercises/Louvers/illustrations/2_solution.png]]
 
 3. Get 10 points from the lower line. At these points we will place the louvers later.
    
 > [!NOTE]- Illustration
-	> ![[grasshopper/exercises/Louvers/illustrations/3_step.png]]
+> ![[grasshopper/exercises/Louvers/illustrations/3_step.png]]
 	
 > [!NOTE]- 👀 Hint
 > _Hint: you only need to divide the line into segments, there is no need to actually create points for that._
 
-   > [!NOTE]- ⚙️Solution
+> [!NOTE]- ⚙️Solution
 > ![[3_solution.png]]
 
 4. Get 10 corresponding points from the top line and connect them to the base line points.
@@ -51,7 +50,7 @@
 > [!NOTE]- 👀 Hint
 > _Hint: you can reuse the previous division operator. Then the segments of both lines will have the same proportions._
 
-   > [!NOTE]- ⚙️Solution
+> [!NOTE]- ⚙️Solution
 > ![[grasshopper/exercises/Louvers/illustrations/4_solution.png]]
 
 5. Now we have the base for our louvers! Great! The only part left is to make 3D shapes out of existing lines. First, let's _extrude_ each line and create a _plane_ out of it.

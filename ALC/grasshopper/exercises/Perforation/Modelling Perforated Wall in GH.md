@@ -6,8 +6,8 @@
 
 1. Make a wall that would serve as a base for perforations. Keep it 2D for now.
    
-   > [!NOTE]- Illustration
-   > ![[grasshopper/exercises/Perforation/illustrations/1a_step.png]]
+> [!NOTE]- Illustration
+> ![[grasshopper/exercises/Perforation/illustrations/1a_step.png]]
    
   > [!NOTE]- 👀 Hint
 > _Hint I: we need to create a plane first. This plane can later be extruded as a wall._
@@ -96,7 +96,7 @@
 > [!NOTE]- 👀 Hint
 > _Hint: look through functions under Intersect / Shape._
    
-  > [!NOTE]- ⚙️Solution
+> [!NOTE]- ⚙️Solution
 > ![[grasshopper/exercises/Perforation/illustrations/8_solution.png]]
 
 9. 🎢 **Bonus:** Add rotating circular panels in the middle of the holes. These panels can have a random rotation or be rotated versus the sphere.
