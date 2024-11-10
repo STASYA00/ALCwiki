@@ -113,4 +113,4 @@
 Check out the [full script](/grasshopper/exercises/scripts/Louvers.gh) if you get stuck! 
 
 ________
-_This exercise has been developed under the workshop for [Umeå universitetet](https://www.umu.se/)for the course of [Elena Vazquez](https://www.umu.se/personal/elena-vazquez/) Architectural Design Studio HT23-24._
+_This exercise has been developed under the workshop for [Umeå universitetet](https://www.umu.se/)for the course of [Elena Vazquez Peña](https://www.umu.se/personal/elena-vazquez/) Architectural Design Studio HT23-24._
