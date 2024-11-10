@@ -19,7 +19,7 @@ Getting started it's easy to get lost in different data sources. The following d
 #wip 
 
 <div class="main">
-	<div class="section"  onclick=" {window.location.href='/data/maps';}">
+	<div class="section"  onclick=" {window.location.href='/ALCWiki/maps';}">
 		<div>🌏</div> 
 		<div>Maps</div>
 	</div>
@@ -51,7 +51,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>🌏</div>
 		<div>Planet Labs</div>
 	</div>
-	<div class="section"  onclick=" {window.location.href='/data/aggregators';}">
+	<div class="section"  onclick=" {window.location.href='/ALCWiki/aggregators';}">
 		<div>🥗</div>
 		<div>Aggregators</div>
 	</div>
@@ -67,7 +67,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>🥗</div>
 		<div>Roboflow</div>
 	</div>
-	<div class="section"  onclick=" {window.location.href='/data/planet';}">
+	<div class="section"  onclick=" {window.location.href='/ALCWiki/planet';}">
 		<div>🌤🌎</div>
 		<div>Planet</div>
 	</div>
@@ -83,7 +83,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>🌤🌎</div>
 		<div>Meteo and more</div>
 	</div>
-	<div class="section"  onclick=" {window.location.href='/data/Economic%20Activity';}">
+	<div class="section"  onclick=" {window.location.href='/ALCWiki/Economic%20Activity';}">
 		<div>💰</div>
 		<div>Economic activity</div>
 	</div>
@@ -91,7 +91,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>💰</div>
 		<div>Yelp</div>
 	</div>
-	<div class="section"  onclick=" {window.location.href='/data/crime';}">
+	<div class="section"  onclick=" {window.location.href='/ALCWiki/crime';}">
 		<div>🔫💰</div>
 		<div>Crime</div>
 	</div>
@@ -107,7 +107,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>🔫💰</div>
 		<div>Chicago crime dataset</div>
 	</div>
-	<div class="section"  onclick=" {window.location.href='/data/mobility';}">
+	<div class="section"  onclick=" {window.location.href='/ALCWiki/mobility';}">
 		<div>🚲</div>
 		<div>Mobility</div>
 	</div>
@@ -127,7 +127,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>🚲</div>
 		<div>Human Migration</div>
 	</div>
-	<div class="section"  onclick=" {window.location.href='/data/performance';}">
+	<div class="section"  onclick=" {window.location.href='/ALCWiki/performance';}">
 		<div>🔋</div>
 		<div>Performance</div>
 	</div>
@@ -147,7 +147,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>🔋</div>
 		<div>Environmental Sound</div>
 	</div>
-	<div class="section" onclick=" {window.location.href='/data/city';}">
+	<div class="section" onclick=" {window.location.href='/ALCWiki/city';}">
 		<div>🏙</div>
 		<div>City appearance</div>
 	</div>
@@ -191,7 +191,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div> 🏙</div>
 		<div>Google Street View</div>
 	</div>
-	<div class="section" onclick=" {window.location.href='/data/interior';}">
+	<div class="section" onclick=" {window.location.href='/ALCWiki/interior';}">
 		<div>🏘</div>
 		<div>Interior</div>
 	</div>
@@ -231,7 +231,7 @@ Getting started it's easy to get lost in different data sources. The following d
 		<div>🏘</div>
 		<div>Structural floor plans</div>
 	</div>
-	<div class="section" onclick=" {window.location.href='/data/vision';}">
+	<div class="section" onclick=" {window.location.href='/ALCWiki/vision';}">
 		<div>👁‍🗨</div>
 		<div>Vision</div>
 	</div>
