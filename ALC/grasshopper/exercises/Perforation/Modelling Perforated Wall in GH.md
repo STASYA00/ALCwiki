@@ -13,7 +13,7 @@
 > _Hint I: we need to create a plane first. This plane can later be extruded as a wall._
 > _Hint II: a plane can be constructed from a line and a point._
 
-   > [!success]- ⚙️Solution
+> [!success]- ⚙️Solution
 > ![[grasshopper/exercises/Perforation/illustrations/1_solution.png]]
 > ![[grasshopper/exercises/Perforation/illustrations/1a_solution.png]]
 
