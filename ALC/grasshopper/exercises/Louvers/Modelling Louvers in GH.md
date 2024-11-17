@@ -1,3 +1,17 @@
+---
+title: Modelling louvers in Grasshopper
+draft: false
+description: An exercise on modelling louvers in grasshopper.
+permalink: /gh_louvers_exercise
+aliases: louvers, gh-louvers
+tags:
+  - grasshopper
+  - AEC
+  - graphical programming
+  - parametric
+  - louvers
+  - beginner
+---
 
 **Level:** Beginner
 **What you learn:** basic primitives, basic operations, modelling volume from a shape.
@@ -40,7 +54,7 @@
 > _Hint: you only need to divide the line into segments, there is no need to actually create points for that._
 
 > [!success]- ⚙️Solution
-> ![[3_solution.png]]
+> ![[grasshopper/exercises/Perforation/illustrations/3_solution.png]]
 
 4. Get 10 corresponding points from the top line and connect them to the base line points.
    
@@ -70,13 +84,13 @@
 6. Our louvers are getting more shape now, time to give them _volume_ and convert from 2D planes into 3D forms. Let's extrude the planes into 3D boxes (parallelepipeds).
 
 > [!abstract]- Illustration
-> ![[6_step.png]]
+> ![[grasshopper/exercises/Louvers/illustrations/6_step.png]]
 
 > [!tip]- 👀 Hint
 > _Hint: you likely want this extrusion to happen along the base line of the louvers. You can reuse this line as a vector direction or the module you have used in step 5._
 
 > [!success]- ⚙️Solution
-> ![[6_solution.png]]
+> ![[grasshopper/exercises/Louvers/illustrations/6_solution.png]]
 
 7. Depending on how your louvers attach to the window construction you might want to _move_ them. One common way to attach the louvers is by the center point. Let's move our newly created parallelepipeds in a way that their center point lies on the base line.
    

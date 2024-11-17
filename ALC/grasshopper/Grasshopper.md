@@ -1,8 +1,26 @@
+---
+title: Grasshopper
+draft: false
+description: A collection of resources on Grasshopper.
+permalink: /grasshopper
+aliases: Grasshopper, grasshopper
+tags:
+  - grasshopper
+  - AEC
+  - graphical programming
+  - parametric
+---
+
+
 #grasshopper is one of many interfaces that allow programming with code blocks. It means that one does not need to know the programming language or write code, instead one can reuse the premade code blocks. To make it less scary for beginners the code has been hidden behind intuitive block images with icons.
 
 It's a great way to understand the programming logic. Or the logic of many systems that exist in the world. Give it a try!
 
 The best way to learn is getting hands-on experience with relevant [[GH exercises]]. Check them out!
+
+![[grasshopper.png]]
+
+_Source: AI-generated_
 
 ### Resources
 

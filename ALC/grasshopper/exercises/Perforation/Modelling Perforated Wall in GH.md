@@ -1,3 +1,17 @@
+---
+title: Modelling perforation in Grasshopper
+draft: false
+description: An exercise on modelling perforation in grasshopper.
+permalink: /gh_perforation_exercise
+tags:
+  - grasshopper
+  - AEC
+  - graphical programming
+  - parametric
+  - perforation
+  - beginner
+---
+
 **Level:** Beginner
 **What you learn:** working with lists, lists of lists (2D Arrays) and data trees.
 
