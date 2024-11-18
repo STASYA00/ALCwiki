@@ -54,7 +54,7 @@ tags:
 > _Hint: you only need to divide the line into segments, there is no need to actually create points for that._
 
 > [!success]- ⚙️Solution
-> ![[grasshopper/exercises/Perforation/illustrations/3_solution.png]]
+> ![[grasshopper/exercises/Louvers/illustrations/3_solution.png]]
 
 4. Get 10 corresponding points from the top line and connect them to the base line points.
    
@@ -125,6 +125,8 @@ tags:
 ![[grasshopper/exercises/Louvers/illustrations/result.png]]
 
 Check out the [full script](/grasshopper/exercises/scripts/Louvers.gh) if you get stuck! 
+
+![[grasshopper/exercises/Louvers/illustrations/3_solution.png]]
 
 ________
 _This exercise has been developed under the workshop for [Umeå universitetet](https://www.umu.se/)for the course of [Elena Vazquez Peña](https://www.umu.se/personal/elena-vazquez/) Architectural Design Studio HT23-24._
