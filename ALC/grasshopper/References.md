@@ -30,6 +30,7 @@ _Source: [WikiMedia](https://commons.wikimedia.org/wiki/File:Mondadori_headquart
 <div>
 	<img src="https://cept.ac.in/file_manager/gallery/photo-1.jpg"> </img>
 _Source: [CEPT University](https://cept.ac.in/)_
+
 * [Parkaden](https://sv.wikipedia.org/wiki/Parkaden)
 * [Harris Park](https://www.arrowmetal.com.au/project/harris-park-perforated-metal-footbridge/)
 * [Melnikov House](https://www.archdaily.com/151567/ad-classics-melnikov-house-konstantin-melnikov) 
@@ -44,4 +45,5 @@ _Source: [CEPT University](https://cept.ac.in/)_
 * [Public square + parking, Katwijk, Netherlands](https://www.archdaily.com/791812/underground-parking-katwijk-aan-zee-royal-haskoningdhv) - wavy hills landscape over an underground parking
   
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/184898381@N07/50698437228/in/photolist-2iVb7eU-2kp5Bu7-2kpm1qB-2kqHCsR-2oGRgXz-2kf3K5G-2kpHV9k-2kRaCnC-2iUgi6u-2q7VCww-2ms2ScR-2kq26tv-2n6oJcF-2mn5qEC-2mVvWrQ-2mmQmdR-2kA5nbC-2kNJPtK-2iVGMqj-2hfHKpy-2ksQCZ1-2nVZcxj-2nVZ8GZ-2q3qSPT-2odmxnS-2maxKSm-2m3vP7H-2n2BbDv-2hjvwdp-2hjsHMt-2hjvweM-2ndUXmc-2ndUXfA-2ndUXjD-2ndWjGc" title="Campus architecture - Karen Blixens Plads - University of Copenhagen"><img src="https://live.staticflickr.com/65535/50698437228_a5384795dc_z.jpg" width="640" height="397" alt="Campus architecture - Karen Blixens Plads - University of Copenhagen"/></a>
+
 _Source: [FlickrCommons](https://www.flickr.com/photos/184898381@N07/50698437228/in/photolist-2iVb7eU-2kp5Bu7-2kpm1qB-2kqHCsR-2oGRgXz-2kf3K5G-2kpHV9k-2kRaCnC-2iUgi6u-2q7VCww-2ms2ScR-2kq26tv-2n6oJcF-2mn5qEC-2mVvWrQ-2mmQmdR-2kA5nbC-2kNJPtK-2iVGMqj-2hfHKpy-2ksQCZ1-2nVZcxj-2nVZ8GZ-2q3qSPT-2odmxnS-2maxKSm-2m3vP7H-2n2BbDv-2hjvwdp-2hjsHMt-2hjvweM-2ndUXmc-2ndUXfA-2ndUXjD-2ndWjGc/) by [Jens Cederskjold](https://www.flickr.com/photos/184898381@N07/)_
