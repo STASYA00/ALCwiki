@@ -20,5 +20,7 @@ tags:
 * [[Modelling Hypar in GH]]
   _Working with surface operations, curves, arrays._
 
+### 🎢 Feedback
 
+![[gh_feedback.png]]
 [Feedback form](https://forms.gle/tTALmwQLgAwq75cy8)
