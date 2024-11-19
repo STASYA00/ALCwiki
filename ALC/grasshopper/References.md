@@ -21,7 +21,10 @@ tags:
 
 <div>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mondadori_headquarters_by_Oscar_Niemeyer%2C_Segrate_%28Milano%29_07.jpg/1920px-Mondadori_headquarters_by_Oscar_Niemeyer%2C_Segrate_%28Milano%29_07.jpg"> </img>
-_Source: [WikiMedia](https://commons.wikimedia.org/wiki/File:Mondadori_headquarters_by_Oscar_Niemeyer,_Segrate_(Milano)_07.jpg) by [Carlo dell'Orto](https://commons.wikimedia.org/wiki/User:Carlodell)_
+	
+
+_Source: [WikiMedia](https://en.wikipedia.org/wiki/Mondadori_Palace) by [Carlo dell'Orto](https://commons.wikimedia.org/wiki/User:Carlodell)_
+
 #### [[Modelling Perforated Wall in GH]] exercise
 
 * [CEPT Architecture School, Ahmedabad](https://images.app.goo.gl/Wbged7JHQCvTFCGi8) - shading
@@ -29,6 +32,8 @@ _Source: [WikiMedia](https://commons.wikimedia.org/wiki/File:Mondadori_headquart
 
 <div>
 	<img src="https://cept.ac.in/file_manager/gallery/photo-1.jpg"> </img>
+
+
 _Source: [CEPT University](https://cept.ac.in/)_
 
 * [Parkaden](https://sv.wikipedia.org/wiki/Parkaden)
