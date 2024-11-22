@@ -1,9 +1,10 @@
 ---
 title: 🛠 Tools
-draft: false
-description: Collection of tools relevant for AEC (architecture, construction, engineering, urban design and planning) problems
-permalink: /datasets
-aliases: datasets
+draft: true
+description: Collection of packages relevant for AEC (architecture, construction, engineering, urban design and planning) problems
+permalink: /packages
+aliases:
+  - packages
 tags:
   - tools
   - framework
@@ -11,7 +12,8 @@ tags:
   - solution
   - AEC
   - Architecture
-  - Machine Learning
+  - Machine
+  - Learning
   - Engineering
   - Urban
   - Construction
