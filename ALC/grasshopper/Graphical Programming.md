@@ -5,6 +5,7 @@ Graphical programming can be a good option to start with coding. It's an intuiti
 **Some examples:**
 
 * [Rhino](https://www.rhino3d.com/) -> [Grasshopper](https://grasshopperdocs.com/)
+* [Beegraphy](https://beegraphy.com/) - web-based modelling tool based on graphical programming
 * [Autodesk Revit](https://www.autodesk.com/se/products/revit/overview)-> [Dynamo](https://dynamobim.org/)
 * [Autodesk Maya](https://www.autodesk.com/products/maya)
 * [Blender](https://www.blender.org/) - shaders & geometry
