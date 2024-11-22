@@ -15,9 +15,9 @@ Here are some tool packages that can be used to develop your own projects or to 
 
 #### Collections for AEC
 
-🌏   [[Geolocation]] tools - solutions related to locating images or text on a map
-🏡   [[Spatial]] tools - everything related to spatial analysis
-🔋   [[Performance]] tools - ~~almost~~ ready solutions for evaluating building performance
+🌏   [[Geolocation]] tools - solutions related to locating images or text on a map\
+🏡   [[Spatial]] tools - everything related to spatial analysis\
+🔋   [[Performance]] tools - ~~almost~~ ready solutions for evaluating building performance\
 🔛   [[Interplatform]] tools - off-the-shelf products to work on the same model in different programs at the same time 💜
 
 #### General Tool Collections

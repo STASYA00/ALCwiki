@@ -20,8 +20,8 @@ You might find these [[🔋 Performance]] datasets rather useful then. But befor
 
 ### Tools & References
 
-🏡    [Infrared](https://infrared.city) - dayfactor and wind analysis on urban volumes
-🐞    [Ladybug](https://www.ladybug.tools/) - Simulation of a model performance from precise physical characteristics
-🏠    [Autodesk Forma](https://www.autodesk.com/se/products/forma/overview?term=1-YEAR&tab=subscription) - multifactor analysis of urban volumes
+🏡    [Infrared](https://infrared.city) - dayfactor and wind analysis on urban volumes\
+🐞    [Ladybug](https://www.ladybug.tools/) - Simulation of a model performance from precise physical characteristics\
+🏠    [Autodesk Forma](https://www.autodesk.com/se/products/forma/overview?term=1-YEAR&tab=subscription) - multifactor analysis of urban volumes\
 🌥    [Daylight GAN](https://daylight-gan-app.vercel.app/) - POC, very low precision model; can be used as inspiration
 

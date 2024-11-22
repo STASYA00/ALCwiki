@@ -17,6 +17,6 @@ A few companies have been working on solving this collaboration challenge.
 
 ### Tools & References
 
-💜 [That Open Company](https://thatopen.com/) - open-source technology for sending data between software programs. They also have the [best documentation](https://docs.thatopen.com/intro) in the world 💜
+💜 [That Open Company](https://thatopen.com/) - open-source technology for sending data between software programs. They also have the [best documentation](https://docs.thatopen.com/intro) in the world 💜\
 💙 [Speckle](https://www.speckle.systems/) - intuitive tool for sending data between software programs
 
