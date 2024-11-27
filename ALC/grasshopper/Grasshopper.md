@@ -18,9 +18,9 @@ It's a great way to understand the programming logic. Or the logic of many syste
 
 The best way to learn is getting hands-on experience with relevant [[GH exercises]]. Check them out!
 
-![[grasshopper.png]]
+![Grasshopper_cover](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/grasshopper.png)
 
-_Source: AI-generated_
+_Source: generated_
 
 ### Resources
 
