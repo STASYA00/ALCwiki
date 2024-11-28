@@ -57,141 +57,28 @@ Each step consisted of 4 parts:
 ##### How was the overall experience?
 
 <div id="my_dataviz"></div>
-<div> K
-	<script> console.log("32");</script>
+<div>
+<script src="https://d3js.org/d3.v4.js"></script> 
+<div id="my_dataviz"></div>
+<script> 
+d3.csv("https://docs.google.com/spreadsheets/d/1XxVggkHqWXs66TGPyzrbXAZ7Y6UiNxNWIfpX7oWYqoE/edit?usp=sharing", function(data) {console.log(data)}
+</script>
 </div>
-
-```chart
-type: line
-id: overall
-legend: false
-layout: rows
-width: 100%
-beginAtZero: false
-fill: true
-tension: 0.3
-xDisplay: false
-yDisplay: false
-xTickDisplay: false
-yTickDisplay: false
-transparency: 0.4
-```
-_Unbearable_                                                                                                                           _Fantastic_                                                                                                                        
+![Overall experience](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/assets/diagrams/overall.png)
+   
 ##### How easy is it to follow the tutorials and coding examples?
 
-```chart
-type: line
-id: easytofollow
-layout: rows
-width: 80%
-beginAtZero: false
-fill: true
-tension: 0.3
-legend: false
-xDisplay: false
-yDisplay: false
-xTickDisplay: false
-yTickDisplay: false
-transparency: 0.15
-```
-_Extremely hard_                                                        _Just right_                                            _Super easy_   
+![easy to follow](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/assets/diagrams/difficulty.png)
 
 ##### How user-friendly is the setup?
-```chart
-type: line
-id: userfriendly
-layout: rows
-width: 80%
-beginAtZero: false
-fill: true
-tension: 0.3
-legend: false
-xDisplay: false
-yDisplay: false
-xTickDisplay: false
-yTickDisplay: false
-transparency: 0.15
-
-```
-_Not user-friendly at all_                                                                                   _Very user-friendly_           
+![How user-friendly is the setup](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/assets/diagrams/userfriendly.png)
 
 ##### How well were you able to understand the instructions presented in the tutorials?
-```chart
-type: line
-id: understanding
-layout: rows
-width: 80%
-beginAtZero: false
-fill: true
-tension: 0.3
-legend: false
-xDisplay: false
-yDisplay: false
-xTickDisplay: false
-yTickDisplay: false
-transparency: 0.15
-```
-_Didn't understand anything_                                                                  _Everything was crystal clear_           
+
+![understanding of instructions](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/assets/diagrams/understanding.png)
 ##### How do you estimate the difficulty level of the exercises?
-```chart
-type: line
-id: difficulty
-layout: rows
-width: 100%
-beginAtZero: false
-fill: true
-tension: 0.3
-legend: false
-xDisplay: false
-yDisplay: false
-xTickDisplay: false
-yTickDisplay: false
-transparency: 0.15
-```
-_Too easy, I want something more challenging_    _Just right_                _Too hard, I want something easier_           
+
+![Difficulty level of the exercises](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/assets/diagrams/exercises.png)
 
 
 ____
-
-### 📃 Source data
-
-<details><summary>Expand</summary>
-
-|                                                             | 1 - extremely hard | 2.  | 3.  | 4.  | 5.  | 6 - just right | 7.  | 8.  | 9.  | 10 - super easy |
-| ----------------------------------------------------------- | ------------------ | --- | --- | --- | --- | -------------- | --- | --- | --- | --------------- |
-| How easy it is to follow the tutorials and coding examples? | 0                  | 0   | 0   | 1   | 4   | 4              | 5   | 1   | 0   | 0               |
-
-^easytofollow
-
-
-
-|                                 | 1 - not user-friendly at all | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  | 10 - very user-friendly |
-| ------------------------------- | ---------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | ----------------------- |
-| How user-friendly is the setup? | 0                            | 0   | 0   | 0   | 3   | 2   | 3   | 4   | 1   | 2                       |
-
-^userfriendly
-
-
-|                                                                                   | 1 - didn't understand anything | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  | 10 - everything was crystal clear |
-| --------------------------------------------------------------------------------- | ------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --------------------------------- |
-| How well were you able to understand the instructions presented in the tutorials? | 0                              | 0   | 0   | 0   | 3   | 4   | 1   | 4   | 1   | 2                                 |
-
-^understanding
-
-
-|                                                            | 1 - too easy, I want something more challenging | 2.  | 3.  | 4.  | 5 -  just right | 6.  | 7.  | 8.  | 9.  | 10 - too hard, I need something easier |
-| ---------------------------------------------------------- | ----------------------------------------------- | --- | --- | --- | --------------- | --- | --- | --- | --- | -------------------------------------- |
-| How do you estimate the difficulty level of the exercises? | 0                                               | 0   | 0   | 0   | 7               | 4   | 4   | 4   | 0   | 0                                      |
-
-^difficulty
-
-
-|                                 | 1 - undearable | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  | 10 - fantastic |
-| ------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | -------------- |
-| How was the overall experience? | 0              | 0   | 0   | 0   | 0   | 0   | 6   | 1   | 6   | 2              |
-
-^overall
-
-</details>
-
-
