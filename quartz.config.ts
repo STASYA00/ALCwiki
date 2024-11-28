@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://stasya00.github.io/ALCwiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "*.excalidraw*"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
