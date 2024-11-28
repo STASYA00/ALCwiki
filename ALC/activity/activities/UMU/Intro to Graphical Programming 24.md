@@ -61,10 +61,10 @@ Each step consisted of 4 parts:
 <script src="https://d3js.org/d3.v4.js"></script> 
 <div id="my_dataviz"></div>
 <script> 
-d3.csv("https://docs.google.com/spreadsheets/d/1XxVggkHqWXs66TGPyzrbXAZ7Y6UiNxNWIfpX7oWYqoE/edit?usp=sharing", function(data) {console.log(data)}
+d3.csv("https://docs.google.com/spreadsheets/d/1XxVggkHqWXs66TGPyzrbXAZ7Y6UiNxNWIfpX7oWYqoE/edit?usp=sharing", function(data) {console.log(data)})
 </script>
 </div>
-![Overall experience](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/assets/diagrams/overall.png)
+![Overall_experience](https://storage.googleapis.com/upplys_assets/activities/umu_igp24/assets/diagrams/overall.png)
    
 ##### How easy is it to follow the tutorials and coding examples?
 
