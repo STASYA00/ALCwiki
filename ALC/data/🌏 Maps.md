@@ -7,6 +7,7 @@ aliases: maps, Maps
 ---
 to [[🔢 Datasets]]
 
+![[Pasted image 20241215211515.png]]
 A collection of datasets related to #map s including #geo spatial data as well as #image data that could be applicable to #urban #planning and/or #AEC problems.
 
 <div class="main">
