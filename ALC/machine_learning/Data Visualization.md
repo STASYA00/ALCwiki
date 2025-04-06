@@ -1,12 +1,4 @@
----
-aliases:
-  - pandas
-  - hello_pandas
-  - hello pandas
-  - hellopandas
-permalink: /machine_learning/pandas
----
-Ever needed to explain ```pandas```? Now, in the era of LLMs explaining how libraries work might seem challenging and almost meaningless. These slides explain basic concepts showing how to work with ```pandas``` **with** LLMs. Syntax might have lost its importance, but these basics are critical when working with data - independent of the tools.
+Explaining data visualization is not about syntax. It's about **the purpose** of each diagram and what it brings in terms of data insights. It's about **the disadvantages** of each diagram, i.e. when **not** to use them. These slides give an introduction to data visualization explaining even how to read and debug python code.
 
 These slides can be used to create a narrative for:
 * 📐 architects & engineers
@@ -23,17 +15,18 @@ These slides can be used to create a narrative for:
 * ➕math formulas
 * ⭐ fancy buzzwords
 * 🏃🏼‍♀️ learning **shortcuts** - quality is a thing here:)
-<iframe src="https://docs.google.com/presentation/d/17qNw3OPsK_VKtxRoxhAFOMtXxfgmqlcQqjsAjuebi48/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1l5m9aZ8Si8QC41XL9ln0pkf3EEpL3ILaHQOEDFFJtPs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 This material can be presented with exercises on [Airbnb Open Data dataset](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata). 
+How to [choose](**https://www.data-to-viz.com/#portfolio**) an appropriate diagram
 
 **Suggested steps:**
 
 * presentation ~20min
 * explaining [colab](https://colab.research.google.com/) - optional ~5min
 * explaining [git](https://github.com/) - semioptional ~10min
-* breakout rooms: 3-4 people, writing down what they understand from looking at the table (semantically) - and comparing it with what an LLM tells. Understanding the gaps.
-* work in with the dataset in a [notebook](https://colab.research.google.com/github/STASYA00/AECinCode_tutorials/blob/main/notebooks/learning_pandas.ipynb) 👇🏼
+* exercise: data visualization on  [Airbnb Open Data dataset](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) + explanation of why these insights are interesting
+* work with the dataset in a [notebook](https://colab.research.google.com/github/STASYA00/AECinCode_tutorials/blob/main/notebooks/learning_pandas.ipynb) 👇🏼
 
 <a href="https://colab.research.google.com/github/STASYA00/AECinCode_tutorials/blob/main/notebooks/learning_pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
